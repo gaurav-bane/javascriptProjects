@@ -30,9 +30,7 @@ const init = function(){
     diceEL.classList.remove('hidden');
     playerOneBackground.classList.remove('player--winner');
     playerSecondBackground.classList.remove('player--winner');
-    playerOneScore.classList.remove('player--active');
-   
-    
+    playerOneScore.classList.remove('player--active');   
 };
 
 init();
